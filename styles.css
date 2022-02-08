@@ -1,0 +1,22 @@
+h1,p {
+   color: #666666;
+   font-family: Verdana
+}
+
+h1 {
+    color: #666666;
+    font-size: 60px;
+}
+
+#byline {
+    font-style: italic;
+}
+
+{#mission{width: 100px;
+height: 200px;}
+{#golden gate{width: 400px;}
+{#Nob Hill {width: 200px;}
+{#Botanical gardens {width: 400px;}
+{#Yerba Buena {width: 500px;}
+
+}
